@@ -1,4 +1,4 @@
-# port-scanner
+# cybersecurity port scanner
 import socket
 
 target = input("Enter a target IP: ")
